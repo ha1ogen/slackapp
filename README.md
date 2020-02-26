@@ -1,2 +1,2 @@
 # slackapp
-read me
+Android app for application to a slack role
